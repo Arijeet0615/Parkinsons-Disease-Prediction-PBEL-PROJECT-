@@ -1,4 +1,4 @@
-# Parkinson's Disease Detection using Vocal Acoustic Features
+# Parkinson's Disease Detection using Machine Learning
 
 ## Project Information
 
