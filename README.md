@@ -4,7 +4,7 @@
 
 **Problem Statement:** Parkinson’s Disease (PD) diagnosis traditionally relies on subjective clinical evaluations. Vocal impairment is an early sign of PD, presenting an opportunity for objective, machine learning-based screening.
 **Objective:** To design a robust machine learning pipeline that classifies patients as "Healthy" (0) or "Parkinson's" (1) using biomedical voice measurements, utilizing Subject-Aware Cross-Validation to prevent data leakage.
-**Dataset Source & Target Variable:** UCI Machine Learning Repository (Parkinsons Dataset). The target variable is `status`.
+**Dataset Source & Target Variable:** UCI Machine Learning Repository (https://archive.ics.uci.edu/dataset/174/parkinsons). The target variable is `status`.
 **Technologies Used:** Python, Pandas, Scikit-Learn, Seaborn, Matplotlib.
 **Project Workflow:** Data Loading -> Subject-Aware Holdout Split -> RFECV Feature Selection -> StandardScaler Normalization -> Model Training -> Evaluation.
 
