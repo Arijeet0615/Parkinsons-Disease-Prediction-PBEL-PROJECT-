@@ -29,5 +29,7 @@ The Random Forest Classifier performed best, achieving 90.7% accuracy and perfec
 **How to Install and Run:**
 1. Clone this repository.
 2. Install dependencies: `pip install -r requirements.txt`
-3. Run the analysis: `jupyter notebook notebooks/test.ipynb`
+3. Run the analysis: `jupyter notebook notebooks/code.ipynb`
+
+**PowerPoint Presentation:** Parkinson’s Disease Prediction Using Machine Learning.pptx
 
