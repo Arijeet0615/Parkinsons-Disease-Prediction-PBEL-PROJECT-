@@ -31,7 +31,6 @@ The Random Forest Classifier performed best, achieving 90.7% accuracy and perfec
 2. Install dependencies: `pip install -r requirements.txt`
 3. Run the analysis: `jupyter notebook notebooks/code.ipynb`
 
-**PowerPoint Presentation:** Parkinson’s Disease Prediction Using Machine Learning.pptx
 
 **Related Research Papers:**
 1. Deep Acoustic Feature Extraction Using Pre-Trained Audio Embedding Models for Parkinson's Disease Classification
