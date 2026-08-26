@@ -32,4 +32,11 @@ The Random Forest Classifier performed best, achieving 90.7% accuracy and perfec
 3. Run the analysis: `jupyter notebook notebooks/code.ipynb`
 
 **PowerPoint Presentation:** Parkinson’s Disease Prediction Using Machine Learning.pptx
+**Related Research Papers:**
+1. Deep Acoustic Feature Extraction Using Pre-Trained Audio Embedding Models for Parkinson's Disease Classification
+2. A Machine Learning Approach for an Early Prediction of Parkinson's disease
+3. Suitability of Dysphonia Measurements for Telemonitoring of Parkinson's Disease (Little et al., 2008)
+4. A comparison of multiple classification methods for diagnosis of Parkinson disease (Das, 2010)
+5. Performance evaluation of machine learning algorithms in the classification of parkinson disease using voice attributes (2018)
+6. Parkinson's Disease Detection by Using Machine Learning Method based on Local Classification on Class Boundary
 
